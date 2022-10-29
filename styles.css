@@ -124,8 +124,8 @@ ul {
 }
 .btn {
   cursor: pointer;
-  color: var(--white);
-  background: var(--primary-500);
+  color: #f00;
+  background: #333;
   border: transparent;
   border-radius: var(--borderRadius);
   letter-spacing: var(--letterSpacing);
